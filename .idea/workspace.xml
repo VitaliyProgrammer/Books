@@ -6,7 +6,22 @@
   <component name="ChangeListManager">
     <list default="true" id="4ffb8228-51f4-4e6a-b200-591cb56b5583" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BookstoreProjectApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/BookstoreProjectApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/controller/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/controller/BookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dto/BookDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dto/BookDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dto/CreateBookRequestDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dto/CreateBookRequestDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/exception/EntityNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/exception/EntityNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/mapper/BookMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/mapper/BookMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/repository/BookRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/repository/BookRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/impl/BookServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/changelog/changes/create_tables.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db/changelog/changes/create_tables.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/changelog/changes/insert_initial_data.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db/changelog/changes/insert_initial_data.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/changelog/db.changelog-master.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db/changelog/db.changelog-master.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

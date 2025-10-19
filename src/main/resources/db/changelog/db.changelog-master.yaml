@@ -3,4 +3,3 @@ databaseChangeLog:
       file: db/changelog/changes/create_tables.yaml
   - include:
       file: db/changelog/changes/insert_initial_data.yaml
-
